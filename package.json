@@ -1,0 +1,15 @@
+{
+  "name": "vuepress-ycte",
+  "version": "1.0.0",
+  "description": "test vuepress to make self-blog",
+  "main": "index.js",
+  "author": "ycte <114587040+ycte@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.67"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
