@@ -1,17 +1,19 @@
 {
   "name": "vuepress-ycte",
   "version": "1.0.0",
-  "description": "test vuepress to make self-blog",
+  "description": "",
   "main": "index.js",
-  "author": "ycte <114587040+ycte@users.noreply.github.com>",
-  "license": "MIT",
-  "devDependencies": {
-    "@vuepress/client": "^2.0.0-beta.67",
-    "vue": "^3.3.4",
-    "vuepress": "^2.0.0-beta.67"
-  },
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/client": "2.0.0-beta.67",
+    "vue": "^3.3.4",
+    "vuepress": "2.0.0-beta.67"
   }
 }
