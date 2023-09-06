@@ -4,7 +4,7 @@ export default defineUserConfig({
   lang: 'zh-CN',
   title: 'ycte',
   description: '我♥永恒！',
-  base: '/',
+  base: '/ycte/',
   head: [['link', { rel: 'icon', href: '/images/logo.png' }]],
   markdown: {
     lineNumbers: true // 代码块显示行号
