@@ -6,8 +6,11 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-
+node_modules
 node_modules/*
+docs/.vuepress/dist
+docs/.vuepress/.temp
+docs/.vuepress/.cache
 docs/.vuepress/dist/*
 docs/.vuepress/.temp/*
 docs/.vuepress/.cache/*
