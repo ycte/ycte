@@ -7,7 +7,10 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
+node_modules/*
+docs/.vuepress/dist/*
+docs/.vuepress/.temp/*
+docs/.vuepress/.cache/*
 .DS_Store
 .temp
 .cache

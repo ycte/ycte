@@ -5,17 +5,24 @@ export default defineUserConfig({
   title: 'ycte',
   description: '我♥永恒！',
   base: '/ycte/',
-  head: [['link', { rel: 'icon', href: '/images/logo.png' }]],
+  head: [['link', { rel: 'icon', href: '/images/kokomi.png' }]],
   markdown: {
     lineNumbers: true // 代码块显示行号
   },
   theme: defaultTheme({
     sidebarDepth: 1, // 将同时提取markdown中h2 和 h3 标题，显示在侧边栏上。
     lastUpdated: 'Last Updated', // 文档更新时间：每个文件git最后提交的时间
-    logo: 'https://wx4.sinaimg.cn/orj360/006n4v0Qgy1hg3nhi15ewj30go0iy411.jpg',
-    logoDark: 'https://wx4.sinaimg.cn/orj360/006n4v0Qgy1hg3nhi15ewj30go0iy411.jpg',
-    repo: 'https://github.com/ycte/ycte',
+    logo: '/images/kokomi.png',
+    logoDark: '/images/kokomi.png',
+    repo: 'https://github.com/ycte/ycte', // 仓库地址
     repoLabel: 'Github',
+    editLink: true,
+    editLinkText: '要一起敲键盘喵？',
+    docsRepo: 'https://github.com/ycte/ycte',
+    docsBranch: 'blog-edit',
+    docsDir: 'docs',
+    editLinkPattern: ':repo/edit/:branch/:path', // editLink 地址配置
+    tip: '啊哈',
     navbar: [
       { text: '首页', link: '/' },
       { text: '关于我♥', link: '/my-heart.html' },
