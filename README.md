@@ -14,7 +14,7 @@
 
 
 
-# ycte blog
+## ycte ♥ docs
 
 基于 vuepress 2.0.0beta 快速搭建的个人博客，内容可能引起不适，请谨慎阅读。
 ### ✅已实现功能
