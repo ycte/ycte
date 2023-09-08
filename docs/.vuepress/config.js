@@ -1,8 +1,8 @@
 import { defaultTheme, defineUserConfig } from 'vuepress'
 import { searchPlugin } from '@vuepress/plugin-search'
-// import { getDirname, path } from '@vuepress/utils'
+import { getDirname, path } from '@vuepress/utils'
 
-// const __dirname = getDirname(import.meta.url)
+const __dirname = getDirname(import.meta.url)
 
 export default defineUserConfig({
   lang: 'zh-CN',
@@ -84,7 +84,7 @@ export default defineUserConfig({
     },
     
   }),
-  // alias: {
-  //   '@theme/HomeFooter.vue': path.resolve(__dirname, './components/MyHomeFooter.vue'),
-  // },
+  alias: {
+    '@theme/HomeFooter.vue': path.resolve(__dirname, './components/MyHomeFooter.vue'),
+  },
 })
