@@ -2,6 +2,7 @@ export const pagesRoutes = [
   ["v-21b550bb","/my-heart.html",{"title":"1. 我♥永恒"},[":md"]],
   ["v-8daa1a0e","/",{"title":""},["/README.md"]],
   ["v-56476c0a","/rules.html",{"title":"2. 一些维护 markdown 时候的小技巧"},[":md"]],
+  ["v-66e8369a","/t-f-my-heart/elysia_bun.html",{"title":"5. Elysia & Bun"},["/t-f-my-heart/elysia&bun.html","/t-f-my-heart/elysia&bun.md"]],
   ["v-4da84844","/t-f-my-heart/kokomi.html",{"title":"1. 珊瑚宫心海"},[":md"]],
   ["v-44478511","/t-f-my-heart/",{"title":"谨防新型珊瑚宫心海骗局"},["/t-f-my-heart/README.md"]],
   ["v-37ddfe66","/t-f-my-heart/ycte.html",{"title":"2. ycte"},[":md"]],

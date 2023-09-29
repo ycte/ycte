@@ -72,7 +72,8 @@ export default defineUserConfig({
             text: "谨防新型珊瑚宫心海骗局",
             collapsible: true,
           children: ['/t-f-my-heart/kokomi.md', '/t-f-my-heart/ycte.md',
-            '/t-f-my-heart/沫芒宫刑海.md', '/t-f-my-heart/净善宫新海.md']
+            '/t-f-my-heart/沫芒宫刑海.md', '/t-f-my-heart/净善宫新海.md',
+            '/t-f-my-heart/elysia&bun.md']
         },
       ],
       '/': [
