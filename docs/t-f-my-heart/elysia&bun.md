@@ -1,8 +1,9 @@
 ---
 lang: zh-CN
-title: 5. Elysia & Bun
+title: 5. Elysia & Bun (暂停)
 ---
 # Elysia & Bun
+## 没有 Linux 和 Mac，Bun 用起来不方便，用 Bun 遍历文件目录同时生成文件也就不太现实
 
 ```bash
 ycte@ycte-virtual-machine:~/Documents$ bun create elysia app
