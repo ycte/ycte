@@ -15,6 +15,10 @@
 <p>海中的游鱼，也有自己的 fang xiang。</p>
 <h4 id="_1-为什么我的♥是永恒的" tabindex="-1"><a class="header-anchor" href="#_1-为什么我的♥是永恒的" aria-hidden="true">#</a> (1) 为什么我的♥是永恒的</h4>
 <p><a href="https://www.bilibili.com/read/cv23129181/?jump_opus=1" target="_blank" rel="noopener noreferrer">心海打榜梗来源<ExternalLinkIcon/></a>。</p>
+<p><img src="@source/t-f-my-heart/assets/2021-12-07192400.png" alt="2021-12-07192400"></p>
+<p><img src="@source/t-f-my-heart/assets/2023-08-16123140.png" alt="2023-08-16123140"></p>
+<p><img src="@source/t-f-my-heart/assets/2023-08-22022857.png" alt="2023-08-22022857"></p>
+<p><img src="@source/t-f-my-heart/assets/2023-09-27211716.png" alt="2023-09-27211716"></p>
 </div></template>
 
 

@@ -5,6 +5,8 @@ export const pagesData = {
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"C:/Users/a1526/Documents/vue-project/ycte/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
   // path: /rules.html
   "v-56476c0a": () => import(/* webpackChunkName: "v-56476c0a" */"C:/Users/a1526/Documents/vue-project/ycte/docs/.vuepress/.temp/pages/rules.html.js").then(({ data }) => data),
+  // path: /t-f-my-heart/Alist.html
+  "v-468d1fab": () => import(/* webpackChunkName: "v-468d1fab" */"C:/Users/a1526/Documents/vue-project/ycte/docs/.vuepress/.temp/pages/t-f-my-heart/Alist.html.js").then(({ data }) => data),
   // path: /t-f-my-heart/elysia_bun.html
   "v-66e8369a": () => import(/* webpackChunkName: "v-66e8369a" */"C:/Users/a1526/Documents/vue-project/ycte/docs/.vuepress/.temp/pages/t-f-my-heart/elysia_bun.html.js").then(({ data }) => data),
   // path: /t-f-my-heart/kokomi.html
