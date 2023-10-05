@@ -69,8 +69,8 @@ export default defineUserConfig({
     sidebar: {
       '/t-f-my-heart/': [
         {
-            text: "谨防新型珊瑚宫心海骗局",
-            collapsible: true,
+          text: "谨防新型珊瑚宫心海骗局",
+          collapsible: true,
           children: ['/t-f-my-heart/kokomi.md', '/t-f-my-heart/ycte.md',
             '/t-f-my-heart/沫芒宫刑海.md', '/t-f-my-heart/净善宫新海.md',
             '/t-f-my-heart/elysia&bun.md', '/t-f-my-heart/Alist.md']
@@ -79,11 +79,17 @@ export default defineUserConfig({
       '/': [
         {
           text: '关于我♥',
+          collapsible: true,
           children: ['/my-heart.md', 'rules.md']
+        },
+        {
+          text: '无聊的一些小东东',
+          collapsible: true,
+          children: ['/small-item/1.Miao-Yunzai-Vercel.md']
         }
       ]
     },
-    
+
   }),
   alias: {
     '@theme/HomeFooter.vue': path.resolve(__dirname, './components/MyHomeFooter.vue'),
