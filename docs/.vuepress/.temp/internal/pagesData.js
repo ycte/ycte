@@ -7,6 +7,8 @@ export const pagesData = {
   "v-56476c0a": () => import(/* webpackChunkName: "v-56476c0a" */"C:/Users/a1526/Documents/vue-project/ycte/docs/.vuepress/.temp/pages/rules.html.js").then(({ data }) => data),
   // path: /small-item/1.Miao-Yunzai-Vercel.html
   "v-2c6f823e": () => import(/* webpackChunkName: "v-2c6f823e" */"C:/Users/a1526/Documents/vue-project/ycte/docs/.vuepress/.temp/pages/small-item/1.Miao-Yunzai-Vercel.html.js").then(({ data }) => data),
+  // path: /small-item/2.oh-my-posh.html
+  "v-b18d42c2": () => import(/* webpackChunkName: "v-b18d42c2" */"C:/Users/a1526/Documents/vue-project/ycte/docs/.vuepress/.temp/pages/small-item/2.oh-my-posh.html.js").then(({ data }) => data),
   // path: /t-f-my-heart/Alist.html
   "v-468d1fab": () => import(/* webpackChunkName: "v-468d1fab" */"C:/Users/a1526/Documents/vue-project/ycte/docs/.vuepress/.temp/pages/t-f-my-heart/Alist.html.js").then(({ data }) => data),
   // path: /t-f-my-heart/elysia_bun.html

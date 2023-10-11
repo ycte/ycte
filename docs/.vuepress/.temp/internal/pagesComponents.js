@@ -9,6 +9,8 @@ export const pagesComponents = {
   "v-56476c0a": defineAsyncComponent(() => import(/* webpackChunkName: "v-56476c0a" */"C:/Users/a1526/Documents/vue-project/ycte/docs/.vuepress/.temp/pages/rules.html.vue")),
   // path: /small-item/1.Miao-Yunzai-Vercel.html
   "v-2c6f823e": defineAsyncComponent(() => import(/* webpackChunkName: "v-2c6f823e" */"C:/Users/a1526/Documents/vue-project/ycte/docs/.vuepress/.temp/pages/small-item/1.Miao-Yunzai-Vercel.html.vue")),
+  // path: /small-item/2.oh-my-posh.html
+  "v-b18d42c2": defineAsyncComponent(() => import(/* webpackChunkName: "v-b18d42c2" */"C:/Users/a1526/Documents/vue-project/ycte/docs/.vuepress/.temp/pages/small-item/2.oh-my-posh.html.vue")),
   // path: /t-f-my-heart/Alist.html
   "v-468d1fab": defineAsyncComponent(() => import(/* webpackChunkName: "v-468d1fab" */"C:/Users/a1526/Documents/vue-project/ycte/docs/.vuepress/.temp/pages/t-f-my-heart/Alist.html.vue")),
   // path: /t-f-my-heart/elysia_bun.html

@@ -85,7 +85,8 @@ export default defineUserConfig({
         {
           text: '无聊的一些小东东',
           collapsible: true,
-          children: ['/small-item/1.Miao-Yunzai-Vercel.md']
+          children: ['/small-item/1.Miao-Yunzai-Vercel.md',
+            '/small-item/2.oh-my-posh.md',]
         }
       ]
     },
