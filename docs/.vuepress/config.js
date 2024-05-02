@@ -7,7 +7,7 @@ const __dirname = getDirname(import.meta.url)
 export default defineUserConfig({
   lang: 'zh-CN',
   title: 'ycte',
-  description: '我♥永恒！',
+  description: 'improving......',
   base: '/ycte/',
   head: [['link', { rel: 'icon', href: '/images/kokomi.png' }]],
   markdown: {
@@ -40,53 +40,29 @@ export default defineUserConfig({
     editLinkPattern: ':repo/edit/:branch/:path', // editLink 地址配置
     tip: '啊哈',
     navbar: [
-      { text: '首页', link: '/' },
-      { text: '关于我♥', link: '/my-heart.html' },
+      { text: 'improving......', link: '/' },
+      { text: 'improving......', link: '/my-heart.html' },
       {
-        text: '谨防盗版我♥',
+        text: 'improving......',
         link: '/t-f-my-heart/'
       },
-      {
-        text: '我♥永恒',
-        children: [
-          { text: '#ycte 永远的永夜君#', link: 'https://github.com/ycte' },
-          { text: '#珊瑚宫心海 美神降临#', link: 'https://github.com/ycte' },
-          { text: '#珊瑚宫心海 稻妻神颜#', link: 'https://github.com/ycte' },
-          { text: '#珊瑚宫心海 怦然心动#', link: 'https://github.com/ycte' },
-          { text: '#珊瑚宫心海 淡雅脱俗#', link: 'https://github.com/ycte' },
-          { text: '#珊瑚宫心海 温文尔雅#', link: 'https://github.com/ycte' },
-          { text: '#珊瑚宫心海 沧海之约#', link: 'https://github.com/ycte' },
-          { text: '#珊瑚宫心海 珍珠音色#', link: 'https://github.com/ycte' },
-          { text: '#珊瑚宫心海 霓裳羽衣#', link: 'https://github.com/ycte' },
-          { text: '#沫芒宫刑海 永远的永夜君#', link: 'https://github.com/ycte' },
-          { text: '#净善宫新海 永远的永夜君#', link: 'https://github.com/ycte' },
-          { text: '#珊瑚宫心海 一顾倾人城再顾倾人国#', link: 'https://github.com/ycte' },
-          { text: '#珊瑚宫心海点赞须弥女路人逆袭T0大C秒取消#', link: 'https://github.com/ycte' },
-        ]
+      // {
+      //   text: 'improving......',
+      //   link: '/t-f-my-heart/kokomi.html'
 
-      }
+      // }
     ],
     sidebar: {
       '/t-f-my-heart/': [
         {
-          text: "谨防新型珊瑚宫心海骗局",
-          collapsible: true,
-          children: ['/t-f-my-heart/kokomi.md', '/t-f-my-heart/ycte.md',
-            '/t-f-my-heart/沫芒宫刑海.md', '/t-f-my-heart/净善宫新海.md',
-            '/t-f-my-heart/elysia&bun.md', '/t-f-my-heart/Alist.md']
+          text: "improving......",
+          // collapsible: true,
         },
       ],
       '/': [
         {
-          text: '关于我♥',
-          collapsible: true,
-          children: ['/my-heart.md', 'rules.md']
-        },
-        {
-          text: '无聊的一些小东东',
-          collapsible: true,
-          children: ['/small-item/1.Miao-Yunzai-Vercel.md',
-            '/small-item/2.oh-my-posh.md',]
+          text: 'improving......',
+          children: ['rules.md']
         }
       ]
     },
