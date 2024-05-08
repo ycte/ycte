@@ -1,0 +1,11 @@
+<template>
+  <div>
+    <p>
+      <UAvatar
+        src="/ycte.jpg"
+        alt="Avatar"
+      />
+      ycte
+    </p>
+  </div>
+</template>
